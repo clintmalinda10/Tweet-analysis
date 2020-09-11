@@ -1,0 +1,10 @@
+tweepy
+nltk
+spellchecker
+pyspellchecker
+python-dateutil
+textblob
+cloudpickle
+pandas
+matplotlib
+sklearn

@@ -1,0 +1,4 @@
+Token ="792358954072436736-KDERBu2ztuhbXXCMnjpxAOeTApbpwv1"
+TokenS = "kEgWpsgYjR5KgkVt8MtEbGQPlRosljRhtUQhR41FW1J19"
+APIK = "ZUG4hnBqxr9weZ1lETwUKpPsL"
+APISK = "hWeyY4aduJblKZdFB9gLamx9YJqcPPra7Ti514rsfbFFakQVig"
